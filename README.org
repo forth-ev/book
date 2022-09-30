@@ -1,0 +1,57 @@
+#+Title: Forth Buch Projekt
+#+Date: <2022-09-30 Fri>
+
+Die Forth-Gesellschaft hat ein Projekt gestartet mit dem Ziel, ein
+neues Forth-Buch zu erstellen.
+
+Dieses Buch wird von der Forth-Gesellschaft unter einer freien Lizenz
+(z.B. Creative Commons) veröffentlicht werden und in der ersten
+Ausgabe Neueinsteigern bei den ersten Schritte mit Forth begeleiten.
+
+Das Buch wird sowohl Forth auf Mikrokontrollern (z.B. Mecrisp) als
+auch Forth auf PC-Systemen (GNU/Forth - gforth) behandeln. Eine
+Book-on-Demand Papierausgabe ist geplant.
+
+Die Diskussion rund um die Inhalte des Buches findet im Mattermost
+Chat
+https://chat.forth-standard.org/forth-standard/channels/forth-buch
+statt (Login Informationen bitte beim Forth-Büro unter
+<secretary@forth-ev.de> anfragen).
+
+In regelmäßigen Abständen trifft sich das Redaktions-Team online um
+die weiteren Arbeiten an dem Buch zu koordinieren.
+
+Interessenten an diesem Projekt (Autoren, Grafiker, Leser) melden sich
+bitte im Mattermost Chat.
+
+** Ideensammlung
+
+* Programmier-Projekt als Beispiel
+  - Was fuer ein Beispiel?
+* Zielgruppe
+  - GForth (ITC)
+  - Mecrisp
+  - für Anfänger
+* Warum Forth
+  - MCU Mikrokontroller
+  - Horizonterweiterung
+  - Interaktivität
+* Dynamisches Buch für unterschiedliche Forth-Systeme
+  * Auswahl des Systems im Build-Prozess des Buches (PDF)
+  * GForth
+  * Mecrisp
+  * VolksForth
+* Inhalt (Diskussions-Vorschlag)
+  * Forth? Was ist das?
+  * Forth als Betriebsumgebung
+  * Forth als Programmiersprache
+     - Unterschiede zu anderen Programmiersprachen
+     - Vorteile von Forth
+     - Forth != Forth
+  * Forth auf einen Mikrokontroller bringen
+  * Forth Entwicklungsumgebung unter [Linux/MacOS/Windows/...]
+  * Grundlagen der Forth-Programmierung
+  * Forth am Praxisbeispiel
+    - Anwendung
+    - Spiel
+    - App
