@@ -28,6 +28,7 @@ bitte im Mattermost Chat.
 
 * Programmier-Projekt als Beispiel
   - Was fuer ein Beispiel?
+  - Cookbook Format - Kleine Beispiele
 * Zielgruppe
   - GForth (ITC)
   - Mecrisp
@@ -41,6 +42,10 @@ bitte im Mattermost Chat.
   * GForth
   * Mecrisp
   * VolksForth
+* Dokumentierte Forth Implementierung
+  * Vorbild "Jones-Forth" https://github.com/nornagon/jonesforth/blob/master/jonesforth.S
+  * Aber fuer "modernes Forth" (Jones Forth ist nach dem 1979 FIG-Forth Modell)
+  * Vielleicht das neue VolksForth Linux amd64 als Grundlage nehmen
 * Inhalt (Diskussions-Vorschlag)
   * Forth? Was ist das?
   * Forth als Betriebsumgebung
